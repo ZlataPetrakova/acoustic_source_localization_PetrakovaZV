@@ -1,4 +1,4 @@
-# acoustic_source_localization_PetrakovaZV
+# acoustic_localization_PetrakovaZV
 
 # Разработка метода локализации акустических источников предопределенного типа
 
